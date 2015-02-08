@@ -237,8 +237,9 @@
 
         <div id="content">
             <div class="container">
+
                 <div class="intro">
-                    <h2>COMING SOON: THE 2015 TWINTIP &amp; WAVE COLLECTION</h2>
+                    <?php echo "PHP"; ?><h2>COMING SOON: THE 2015 TWINTIP &amp; WAVE COLLECTION</h2>
                     <p>You are in the right place for custom made twintip and directional kiteboards and accessories.<br />
                     In a few weeks you will be able to select your look from our extensive design collection and<br />
                     customise your board to match your exact style of aesthetics and personal riding preferences.</p>
